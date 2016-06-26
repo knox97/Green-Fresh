@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: /*.json
+Disallow: /*.json-compact
+Disallow: /*.cs
+Disallow: /*.xml
+Disallow: /*.rss
+Disallow: /*.css
+Disallow: /*.js
+Disallow: /*.java
+Disallow: /*.cpp
+Disallow: /*.py
+Disallow: /*.c
+Disallow: /*.css
+Allow: /
+
+#add domain for a sitemap.xml
+
+#Sitemap: https://www.domain/sitemaps
